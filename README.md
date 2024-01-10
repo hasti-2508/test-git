@@ -1,4 +1,5 @@
 # test-git
 
 
-this will conflict.
+this will not conflict.
+
